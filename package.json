@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tommycp96/whatsapp-autosender.git"
+    "url": "git+ssh://git@github.com/tommyxor/whatsapp-autosender.git"
   },
   "author": "Tommy Pang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tommycp96/whatsapp-autosender/issues"
+    "url": "https://github.com/tommyxor/whatsapp-autosender/issues"
   },
-  "homepage": "https://github.com/tommycp96/whatsapp-autosender#readme",
+  "homepage": "https://github.com/tommyxor/whatsapp-autosender#readme",
   "dependencies": {
     "axios": "^1.16.0",
     "dotenv": "^16.3.1"

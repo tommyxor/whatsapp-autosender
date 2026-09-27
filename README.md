@@ -17,7 +17,7 @@ This Node.js application automates the process of sending WhatsApp messages usin
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:tommycp96/whatsapp-autosender.git
+git clone git@github.com:tommyxor/whatsapp-autosender.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -71,4 +71,4 @@ Contributions, issues, and feature requests are welcome. If you have suggestions
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/tommycp96/whatsapp-autosender/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/tommyxor/whatsapp-autosender/blob/main/LICENSE).
